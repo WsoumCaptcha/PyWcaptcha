@@ -1,2 +1,2 @@
-# PyWcaptcha
-PyWcaptcha
+# Python Wsoum Captcha
+Python Wsoum Captcha
